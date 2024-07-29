@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 # OpenAI API Key 설정
-openai.api_key = 'sk-proj-btbvfHxF3m0PGep7CIpaT3BlbkFJ3wjoeeKBqw0auKu1pddV'
+openai.api_key = ''
 
 def analyze_image(image_path):
     # 이미지 로드
